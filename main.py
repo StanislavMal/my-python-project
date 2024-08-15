@@ -6,3 +6,5 @@ def greet(name):
 
 if __name__ == "__main__":
   greet("мир")
+
+print(f"как вас зовут?")
